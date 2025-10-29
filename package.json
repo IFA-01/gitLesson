@@ -1,0 +1,24 @@
+{
+  "name": "otusTestProject",
+  "version": "1.0.1",
+  "description": "description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IFA-01/gitLesson.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IFA-01/gitLesson/issues"
+  },
+  "homepage": "https://github.com/IFA-01/gitLesson#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "lodash-es": "^4.17.21"
+  }
+}
